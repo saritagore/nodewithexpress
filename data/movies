@@ -1,0 +1,98 @@
+[
+    {
+    "name": "Friends",
+    "description": "A mind-bending movie about dreams within dreams.",
+    "duration": "108",
+    "ratings":5.5,
+    "releaseYear": 1880,
+    "releaseDate": "2010-07-16T00:00:00.000Z",
+    "createdAt": "2024-11-23T14:19:09.227Z",
+    "genres": [
+        "Science Fiction",
+        "Action",
+        "Thriller"
+    ],
+    "directors": [
+        "Christopher Nolan"
+    ],
+    "coverImage": "inception.jpg",
+    "actors": [
+        "Leonardo DiCaprio",
+        "Joseph Gordon-Levitt",
+        "Ellen Page"
+    ],
+    "price": 900
+},
+{
+    "name": "Rambo",
+    "description": "A mind-bending movie about dreams within dreams.",
+    "duration": "148",
+    "ratings":6.5,
+    "releaseYear": 1990,
+    "releaseDate": "2010-07-16T00:00:00.000Z",
+    "createdAt": "2024-11-23T14:19:09.227Z",
+    "genres": [
+        "Science Fiction",
+        "Action",
+        "Thriller"
+    ],
+    "directors": [
+        "Christopher Nolan"
+    ],
+    "coverImage": "inception.jpg",
+    "actors": [
+        "Leonardo DiCaprio",
+        "Joseph Gordon-Levitt",
+        "Ellen Page"
+    ],
+    "price": 700
+},
+{
+    "name": "Super Man",
+    "description": "A mind-bending movie about dreams within dreams.",
+    "duration": "120",
+    "ratings":7.5,
+    "releaseYear": 2000,
+    "releaseDate": "2010-07-16T00:00:00.000Z",
+    "createdAt": "2024-11-23T14:19:09.227Z",
+    "genres": [
+        "Science Fiction",
+        "Action",
+        "Thriller"
+    ],
+    "directors": [
+        "Christopher Nolan"
+    ],
+    "coverImage": "inception.jpg",
+    "actors": [
+        "Leonardo DiCaprio",
+        "Joseph Gordon-Levitt",
+        "Ellen Page"
+    ],
+    "price": 800
+},
+{
+    "name": "Iron Man",
+    "description": "A mind-bending movie about dreams within dreams.",
+    "duration": "160",
+    "ratings":4.5,
+    "releaseYear": 2000,
+    "releaseDate": "2010-07-16T00:00:00.000Z",
+    "createdAt": "2024-11-23T14:19:09.227Z",
+    "genres": [
+        "Science Fiction",
+        "Action",
+        "Thriller"
+    ],
+    "directors": [
+        "Christopher Nolan"
+    ],
+    "coverImage": "inception.jpg",
+    "actors": [
+        "Leonardo DiCaprio",
+        "Joseph Gordon-Levitt",
+        "Ellen Page"
+    ],
+    "price": 200
+}
+]
